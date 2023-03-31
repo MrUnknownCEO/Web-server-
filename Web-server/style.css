@@ -1,0 +1,29 @@
+body {
+      background-color: black;
+}
+
+.container {
+     display: block;
+     height: 50%;
+     width: 50%;
+     text-align: center;
+     background: rgb(8, 236, 236,0.5);
+     padding: 15px;
+     color: white;
+     margin: auto;
+}
+
+h2 .container{
+      color:white;
+      text-align:center;
+}
+
+p .container{
+      color:white;
+      text-align:center;
+}
+
+li .container{
+      color:white;
+      text-align:center;
+}
